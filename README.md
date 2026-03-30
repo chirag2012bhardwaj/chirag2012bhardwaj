@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">[![Greet Me](https://greethub.glitch.me/?greet=true)](https://github.com/Sandip124)</p>
+<p align="center">[![Greet Me](https://greethub.glitch.me/?greet=true)](https://github.com/chirag2012bhardwaj)</p>
 
 ###
 
